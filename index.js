@@ -19,5 +19,9 @@ object.addEventListener('dblclick', () => {
 }
 
 newImage('assets/green-character.gif', 100, 100)
+newImage('assets/pine-tree.png', 200, 300)
+newImage('assets/pillar.png', 350, 100)
+newImage('assets/crate.png', 150, 200)
+newImage('assets/well.png', 500, 425)
 
 
